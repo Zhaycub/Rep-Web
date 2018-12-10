@@ -1,0 +1,112 @@
+div h1{
+	font-size: 64px;
+	text-transform: uppercase;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
+}
+
+div h2{
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
+	font-size: 48px;
+}
+
+div h3{
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
+	font-size: 32px;
+	text-decoration: underline;
+}
+
+div p {
+	color: black; font-size: 28px;
+}
+
+img.big{
+	width: 60%;
+	margin: 15px;
+
+}
+
+html div{
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
+}
+
+div.wow p, div.wow, .wow {
+	background-color: black;
+	color: white;
+}
+
+table{
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	.menu{
+		text-align: center;
+		width: 50%;
+	}
+	.menuword{
+		width: 15%;
+	}
+
+	.menuwordselect {
+		width: 15%;
+		font-weight: bolder;
+		font-style: italic;
+	}
+
+	.menupipe{
+		width: 1%;
+	}
+
+span.rainbow1{
+	color: #1FA005;
+}
+span.rainbow2{
+	color: #FAD02C;
+}
+
+span.rainbow3{
+	color: #FB6A1B;
+}
+
+span.rainbow4{
+	color: #BC0E0D;
+}
+
+span.rainbow5{
+	color: #4E1341;
+}
+
+span.rainbow6{
+	color: #1D4DA4;
+}
+
+span a{
+	margin: 20px 20px;
+	height: auto;
+	width: 300px;
+}
+
+div img{
+	display: inline-block;
+	margin: 25px 25px;
+}
+
+#asked h1{
+	font-size: 48px;
+}
+
+h3.animal {
+	font-size: 48px;
+}
+
+.topimg{
+	width: 40%;
+	margin: 15px;
+}
+
+.toobig{
+	width: 25%;
+	margin: 15px;
+}
