@@ -1,0 +1,110 @@
+@font-face {
+  font-family: "famGuy";
+  src: url("../fonts/Famig___.ttf");
+}
+
+div h1{
+	font-size: 64px;
+	text-transform: uppercase;
+	font-family: "famGuy", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
+}
+
+div h2{
+	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-size: 48px;
+}
+
+div h3{
+	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-size: 32px;
+	
+}
+
+div p {
+	color: black; font-size: 28px;
+}
+
+img.big{
+	width: 60%;
+	margin: 15px;
+
+}
+
+html div{
+	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+}
+
+div.wow p, div.wow, .wow {
+	background-color: black;
+	color: white;
+}
+
+table{
+	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	.menu{
+		text-align: center;
+		width: 50%;
+	}
+	.menuword{
+		width: 15%;
+		color: blue;
+	}
+
+	.menuwordselect {
+		width: 15%;
+		font-weight: bolder;
+		font-style: italic;
+		color: blue;
+	}
+
+	.menupipe{
+		width: 1%;
+	}
+
+span a{
+	margin: 20px 20px;
+	height: auto;
+	width: 300px;
+}
+
+div img{
+	display: inline-block;
+	margin: 25px 25px;
+}
+
+#asked h1{
+	font-size: 48px;
+}
+
+a.w3-bar-item {
+	color: blue;
+}
+
+footer p{
+	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	color: blue;
+}
+
+.topimg{
+	width: 70%;
+	margin: 15px;
+}
+
+.toobig{
+	width: 40%;
+	margin: 15px;
+}
+
+.textcoblue{
+	color: blue;
+}
+
+span.numbers{
+	font-family: "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+}
+
