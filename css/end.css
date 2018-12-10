@@ -6,16 +6,16 @@
 div h1{
 	font-size: 64px;
 	text-transform: uppercase;
-	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-family: "famGuy", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
 }
 
 div h2{
-	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-family: "famGuy", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
 	font-size: 48px;
 }
 
 div h3{
-	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-family: "famGuy", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
 	font-size: 32px;
 	
 }
@@ -31,7 +31,7 @@ img.big{
 }
 
 html div{
-	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-family: "famGuy", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
 }
 
 div.wow p, div.wow, .wow {
@@ -40,7 +40,7 @@ div.wow p, div.wow, .wow {
 }
 
 table{
-	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-family: "famGuy", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -86,7 +86,7 @@ a.w3-bar-item {
 }
 
 footer p{
-	font-family: "famGuy", "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-family: "famGuy", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
 	color: blue;
 }
 
@@ -105,6 +105,6 @@ footer p{
 }
 
 span.numbers{
-	font-family: "Berlin Sans FB Demi", "Bernard MT Condensed", Georgia, Impact;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, Georgia, Impact;
 }
 
